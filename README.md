@@ -1,4 +1,4 @@
-This site is hosted at www.recipehelper.vercel.app
+This site is hosted at https://recipehelper.vercel.app/
 
 # React + Vite
 
