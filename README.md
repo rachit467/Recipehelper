@@ -1,14 +1,58 @@
-This site is hosted at https://recipehelper.vercel.app/
+# Find Your Recipe at Recipe Helper🍴
 
-# React + Vite
+Welcome to **Recipe Helper**, a React-based web application that helps you explore and discover delicious recipes from around the world. The app is powered by the [TheMealDB API](https://www.themealdb.com/) and provides features like category-based browsing, meal search, and saving your favorite recipes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌐 **Live Demo**: [Recipe Helper](https://recipehelper.vercel.app/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features 🚀
 
-## Expanding the ESLint configuration
+- **Search Meals**: Quickly search for meals by name.
+- **Meal Categories**: Browse meals by categories like desserts, seafood, and more.
+- **Meal Details**: View detailed information about a meal, including ingredients, measures, and instructions.
+- **Favorite Meals**: Save your favorite meals for quick access.
+- **Dark Mode**: Toggle between light and dark themes for a better user experience.
+- **Responsive Design**: Fully optimized for desktop and mobile devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack 🛠️
+
+- **Frontend**: React, React Router, Material Tailwind, Styled Components
+- **Styling**: Tailwind CSS
+- **API**: [TheMealDB API](https://www.themealdb.com/)
+- **Build Tool**: Vite
+- **Hosting**: Vercel
+
+---
+
+
+## Project Structure for Recipe Helper  📂
+├── public/               # Static assets
+├── src/                  # Source code
+│   ├── components/       # Reusable components
+│   ├── hooks/            # Custom hooks
+│   ├── pages/            # Application pages
+│   ├── [App.jsx](http://_vscodecontentref_/0)           # Main app component
+│   ├── [main.jsx](http://_vscodecontentref_/1)          # Entry point
+│   └── [index.css](http://_vscodecontentref_/2)         # Global styles
+├── .gitignore            # Git ignore file
+├── [package.json](http://_vscodecontentref_/3)          # Project dependencies and scripts
+├── [README.md](http://_vscodecontentref_/4)             # Project documentation
+├── [tailwind.config.js](http://_vscodecontentref_/5)    # Tailwind CSS configuration
+└── [vite.config.js](http://_vscodecontentref_/6)        # Vite configuration
+
+**License**
+ 📄
+This project is licensed under the MIT License.
+
+**Author** 👨‍💻
+Rachit Tachamo
+
+🌐 Blog
+🐙 GitHub
+📸 Instagram
+💼 LinkedIn
+
+⭐ If you like this project, don't forget to star the repository! ``````
