@@ -28,7 +28,22 @@ Welcome to **Recipe Helper**, a React-based web application that helps you explo
 ---
 
 
-<pre> ```text recipe-helper/ ├── public/ # Static assets ├── src/ # Source code │ ├── components/ # Reusable components │ ├── hooks/ # Custom hooks │ ├── pages/ # Application pages │ ├── App.jsx # Main app component │ ├── main.jsx # Entry point │ └── index.css # Global styles ├── .gitignore # Git ignore file ├── package.json # Project dependencies and scripts ├── README.md # Project documentation ├── tailwind.config.js # Tailwind CSS configuration └── vite.config.js # Vite configuration ``` </pre>
+```text
+recipe-helper/
+├── public/               # Static assets
+├── src/                  # Source code
+│   ├── components/       # Reusable components
+│   ├── hooks/            # Custom hooks
+│   ├── pages/            # Application pages
+│   ├── App.jsx           # Main app component
+│   ├── main.jsx          # Entry point
+│   └── index.css         # Global styles
+├── .gitignore            # Git ignore file
+├── package.json          # Project dependencies and scripts
+├── README.md             # Project documentation
+├── tailwind.config.js    # Tailwind CSS configuration
+└── vite.config.js        # Vite configuration
+
 
 **License**
  📄
