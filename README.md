@@ -28,20 +28,20 @@ Welcome to **Recipe Helper**, a React-based web application that helps you explo
 ---
 
 
-## Project Structure for Recipe Helper  📂
-├── public/               # Static assets
-├── src/                  # Source code
-│   ├── components/       # Reusable components
-│   ├── hooks/            # Custom hooks
-│   ├── pages/            # Application pages
-│   ├── [App.jsx](http://_vscodecontentref_/0)           # Main app component
-│   ├── [main.jsx](http://_vscodecontentref_/1)          # Entry point
-│   └── [index.css](http://_vscodecontentref_/2)         # Global styles
-├── .gitignore            # Git ignore file
-├── [package.json](http://_vscodecontentref_/3)          # Project dependencies and scripts
-├── [README.md](http://_vscodecontentref_/4)             # Project documentation
-├── [tailwind.config.js](http://_vscodecontentref_/5)    # Tailwind CSS configuration
-└── [vite.config.js](http://_vscodecontentref_/6)        # Vite configuration
+recipe-helper/
+├── public/ # Static assets
+├── src/ # Source code
+│ ├── components/ # Reusable components
+│ ├── hooks/ # Custom hooks
+│ ├── pages/ # Application pages
+│ ├── App.jsx # Main app component
+│ ├── main.jsx # Entry point
+│ └── index.css # Global styles
+├── .gitignore # Git ignore file
+├── package.json # Project dependencies and scripts
+├── README.md # Project documentation
+├── tailwind.config.js # Tailwind CSS configuration
+└── vite.config.js # Vite configuration
 
 **License**
  📄
